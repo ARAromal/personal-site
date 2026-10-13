@@ -15,11 +15,10 @@ The website is designed as a **single-page, responsive portfolio** and is hosted
 
 ## 🧑‍💻 About Me
 
-I am an **MTech Bioinformatics student** with strong interests in:
+I am a **PhD student** with strong interests in:
 
 - Computational Biology  
 - Machine Learning & Deep Learning  
-- Genomics & Metagenomics  
 - Data Science  
 - Web-based scientific tools  
 
